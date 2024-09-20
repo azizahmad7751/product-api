@@ -38,7 +38,7 @@ A simple Django application that provides an API for managing products. This app
 5. Run the development server:
    ```bash
    python manage.py runserver
-6. Open your browser and go to http://127.0.0.1:8000 to access the application.
+6. Open your browser and go to http://127.0.0.1:8000/api/products/ to access the application.
    
    
 ## API Endpoints
