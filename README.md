@@ -42,8 +42,10 @@ A simple Django application that provides an API for managing products. This app
    
    
 ## API Endpoints
-POST /api/products/create/ - Create a new product
-GET /api/products/list/ - Retrieve a list of all products
+### Create a new product
+- POST /api/products/create/
+### Retrieve a list of all products 
+- GET /api/products/list/ 
 
 ## Usage
 Use the provided HTML form to add a new product, which will then be displayed in a table.
